@@ -1,0 +1,9 @@
+21m400m400m: d_model=288 attention inner=224
+  heads= 28 kv=  8  raw NLL=6.5485
+  heads= 16 kv= 14  raw NLL=6.4649
+  heads= 14 kv= 16  raw NLL=6.3766
+  heads=  8 kv= 28  raw NLL=6.5456
+  heads=  7 kv= 32  raw NLL=6.1625
+  heads=  4 kv= 56  raw NLL=6.5845
+  heads=  2 kv=112  raw NLL=6.5892
+  heads=  1 kv=224  raw NLL=6.4778

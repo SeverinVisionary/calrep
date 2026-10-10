@@ -1,0 +1,34 @@
+unparsed 120 ['2b855b11bc4seed1', '2b855b11bc4seed2', '2b855b11bc4seed3', '2b855b11bc4seed4', '2b855b14bc4seed1', '2b855b14bc4seed2', '2b855b14bc4seed3', '2b855b14bc4seed4', '2b855b18bc4seed1', '2b855b18bc4seed2', '2b855b18bc4seed3', '2b855b18bc4seed4', '2b855b1b25c4seed1', '2b855b1b25c4seed2', '2b855b1b25c4seed3', '2b855b1b25c4seed4', '2b855b28bc4seed1', '2b855b28bc4seed2', '2b855b28bc4seed3', '2b855b28bc4seed4']
+N=7M U=100M n=2 ckpt_in_misc=2 epochs=[1.0, 2.0] argmin_ep=2.0 minL=7.362 lastL=7.362 rise_total=0.000 rise<=64ep=0.000
+N=14M U=100M n=15 ckpt_in_misc=15 epochs=[1.0, 2.0, 4.0, 8.0, 15.0, 27.0, 39.0, 59.0, 140.0, 200.0, 910.0, 1740.0, 3000.0, 6000.0, 9000.0] argmin_ep=9000.0 minL=4.304 lastL=4.304 rise_total=0.000 rise<=64ep=0.000
+N=25M U=100M n=3 ckpt_in_misc=3 epochs=[2.0, 4.0, 8.0] argmin_ep=8.0 minL=5.284 lastL=5.284 rise_total=0.000 rise<=64ep=0.000
+N=44M U=100M n=11 ckpt_in_misc=11 epochs=[2.0, 4.0, 15.0, 27.0, 39.0, 59.0, 140.0, 200.0, 320.0, 910.0, 1740.0] argmin_ep=140.0 minL=3.808 lastL=3.812 rise_total=0.005 rise<=64ep=0.000
+N=83M U=100M n=12 ckpt_in_misc=12 epochs=[4.0, 15.0, 27.0, 39.0, 59.0, 140.0, 200.0, 320.0, 600.0, 910.0, 1740.0, 3000.0] argmin_ep=140.0 minL=3.725 lastL=3.869 rise_total=0.143 rise<=64ep=0.000
+N=83M U=1500M n=2 ckpt_in_misc=2 epochs=[1.0, 13.3] argmin_ep=13.3 minL=3.619 lastL=3.619 rise_total=0.000 rise<=64ep=0.000
+N=146M U=100M n=10 ckpt_in_misc=10 epochs=[15.0, 27.0, 39.0, 59.0, 140.0, 200.0, 320.0, 600.0, 910.0, 1740.0] argmin_ep=59.0 minL=3.718 lastL=3.897 rise_total=0.179 rise<=64ep=0.000
+N=146M U=400M n=4 ckpt_in_misc=4 epochs=[35.0, 150.0, 227.5, 435.0] argmin_ep=435.0 minL=3.277 lastL=3.277 rise_total=0.000 rise<=64ep=0.000
+N=220M U=100M n=4 ckpt_in_misc=4 epochs=[15.0, 27.0, 39.0, 59.0] argmin_ep=39.0 minL=3.722 lastL=3.781 rise_total=0.059 rise<=64ep=0.059
+N=220M U=1500M n=3 ckpt_in_misc=3 epochs=[5.0, 200.0, 400.0] argmin_ep=400.0 minL=2.938 lastL=2.938 rise_total=0.000 rise<=64ep=0.000
+N=221M U=400M n=7 ckpt_in_misc=7 epochs=[9.8, 80.0, 150.0, 227.5, 435.0, 750.0, 1500.0] argmin_ep=750.0 minL=3.257 lastL=3.262 rise_total=0.004 rise<=64ep=0.000
+N=280M U=100M n=4 ckpt_in_misc=4 epochs=[15.0, 27.0, 39.0, 59.0] argmin_ep=27.0 minL=3.728 lastL=3.882 rise_total=0.155 rise<=64ep=0.155
+N=280M U=400M n=2 ckpt_in_misc=2 epochs=[14.8, 227.5] argmin_ep=227.5 minL=3.312 lastL=3.312 rise_total=0.000 rise<=64ep=0.000
+N=421M U=100M n=5 ckpt_in_misc=5 epochs=[15.0, 27.0, 39.0, 59.0, 320.0] argmin_ep=27.0 minL=3.747 lastL=5.784 rise_total=2.036 rise<=64ep=0.423
+N=421M U=400M n=4 ckpt_in_misc=4 epochs=[9.8, 80.0, 150.0, 227.5] argmin_ep=80.0 minL=3.367 lastL=3.465 rise_total=0.099 rise<=64ep=0.000
+N=421M U=1500M n=5 ckpt_in_misc=5 epochs=[2.6, 21.3, 60.7, 166.7, 200.0] argmin_ep=200.0 minL=2.884 lastL=2.884 rise_total=0.000 rise<=64ep=0.000
+N=574M U=1500M n=3 ckpt_in_misc=3 epochs=[116.0, 200.0, 400.0] argmin_ep=400.0 minL=2.864 lastL=2.864 rise_total=0.000 rise<=64ep=0.000
+N=619M U=100M n=5 ckpt_in_misc=5 epochs=[15.0, 27.0, 39.0, 59.0, 220.0] argmin_ep=15.0 minL=3.784 lastL=6.840 rise_total=3.056 rise<=64ep=0.884
+N=619M U=400M n=4 ckpt_in_misc=4 epochs=[6.8, 55.0, 150.0, 227.5] argmin_ep=55.0 minL=3.442 lastL=3.756 rise_total=0.314 rise<=64ep=0.000
+N=619M U=1500M n=2 ckpt_in_misc=2 epochs=[1.8, 14.7] argmin_ep=14.7 minL=2.974 lastL=2.974 rise_total=0.000 rise<=64ep=0.000
+N=1100M U=100M n=6 ckpt_in_misc=6 epochs=[1.0, 15.0, 27.0, 39.0, 59.0, 120.0] argmin_ep=15.0 minL=3.819 lastL=8.136 rise_total=4.317 rise<=64ep=2.194
+N=1100M U=400M n=3 ckpt_in_misc=3 epochs=[3.8, 30.0, 227.5] argmin_ep=30.0 minL=3.548 lastL=4.619 rise_total=1.071 rise<=64ep=0.000
+N=1100M U=1500M n=5 ckpt_in_misc=5 epochs=[1.0, 8.0, 60.7, 116.0, 166.7] argmin_ep=60.7 minL=2.939 lastL=2.986 rise_total=0.047 rise<=64ep=0.000
+N=1100M U=12000M n=2 ckpt_in_misc=2 epochs=[1.0, 7.6] argmin_ep=7.6 minL=2.666 lastL=2.666 rise_total=0.000 rise<=64ep=0.000
+N=1500M U=100M n=2 ckpt_in_misc=2 epochs=[88.0, 660.0] argmin_ep=88.0 minL=7.680 lastL=11.018 rise_total=3.339 rise<=64ep=0.000
+N=1500M U=1500M n=4 ckpt_in_misc=4 epochs=[5.9, 44.0, 60.7, 116.0] argmin_ep=44.0 minL=2.993 lastL=3.099 rise_total=0.106 rise<=64ep=0.042
+N=2200M U=1500M n=3 ckpt_in_misc=3 epochs=[30.7, 60.7, 116.0] argmin_ep=30.7 minL=3.030 lastL=3.351 rise_total=0.321 rise<=64ep=0.147
+N=2800M U=100M n=3 ckpt_in_misc=2 epochs=[1.0, 48.0, 360.0] argmin_ep=48.0 minL=5.341 lastL=10.696 rise_total=5.355 rise<=64ep=0.000
+N=2800M U=400M n=2 ckpt_in_misc=2 epochs=[12.0, 90.0] argmin_ep=12.0 minL=3.379 lastL=6.548 rise_total=3.169 rise<=64ep=0.000
+N=2800M U=1500M n=3 ckpt_in_misc=3 epochs=[3.2, 24.0, 51.3] argmin_ep=24.0 minL=3.065 lastL=3.298 rise_total=0.233 rise<=64ep=0.233
+N=2800M U=4000M n=8 ckpt_in_misc=7 epochs=[1.0, 2.0, 3.0, 4.0, 6.0, 8.0, 10.0, 13.8] argmin_ep=13.8 minL=2.696 lastL=2.696 rise_total=0.000 rise<=64ep=0.000
+N=4200M U=12000M n=7 ckpt_in_misc=6 epochs=[1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0] argmin_ep=7.0 minL=2.527 lastL=2.527 rise_total=0.000 rise<=64ep=0.000
+N=8700M U=1500M n=2 ckpt_in_misc=2 epochs=[8.0, 13.3] argmin_ep=8.0 minL=3.063 lastL=3.085 rise_total=0.021 rise<=64ep=0.021

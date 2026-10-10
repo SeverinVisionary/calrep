@@ -1,0 +1,159 @@
+name	N	in_step1	repo	dir	step	modelGB
+146m14b14b	1.465e+08	yes	datablations/lm1-misc	146m14b14b	21553	0.29
+146m14b1b5	1.465e+08	yes	datablations/lm1-misc	146m14b1b5	21553	0.29
+146m14b400m	1.465e+08	yes	datablations/lm1-misc	146m14b400m	21553	0.29
+146m1b5100m	1.465e+08	yes	datablations/lm1-misc	146m1b5100m	2891	0.29
+146m2b7100m	1.465e+08	yes	datablations/lm1-misc	146m2b7100m	5111	0.29
+146m3b9100m	1.465e+08	yes	datablations/lm1-misc	146m3b9100m	7508	0.29
+146m5b9100m	1.465e+08	yes	datablations/lm1-misc	146m5b9100m	11269	0.29
+14m100m100m	1.41e+07	yes	datablations/lm1-misc	14m100m100m	190	0.03
+14m1b5100m	1.41e+07	no:no_checkpoint				
+14m200m100m	1.41e+07	yes	datablations/lm1-misc	14m200m100m	381	0.03
+14m2b7100m	1.41e+07	no:no_checkpoint				
+14m3b9100m	1.41e+07	yes	datablations/lm1-misc	14m3b9100m	7508	0.03
+14m400m100m	1.41e+07	yes	datablations/lm1-misc	14m400m100m	762	0.03
+14m5b9100m	1.41e+07	yes	datablations/lm1-misc	14m5b9100m	11269	0.03
+14m800m100m	1.41e+07	yes	datablations/lm1-misc	14m800m100m	1525	0.03
+196m1b51b5	2.012e+08	yes	datablations/lm1-misc	196m1b51b5	2891	0.4
+1b1100m100m	1.096e+09	yes	datablations/lm1-misc	1b1100m100m	190	2.19
+1b112b12b	1.096e+09	yes	datablations/lm1-misc	1b112b12b	23189	2.19
+1b112b1b5	1.096e+09	yes	datablations/lm1-misc	1b112b1b5	23189	2.19
+1b112b400m	1.096e+09	yes	datablations/lm1-misc	1b112b400m	23189	2.19
+1b112b4b8	1.096e+09	yes	datablations/lm1-misc	1b112b4b8	23189	2.19
+1b11b5100m	1.096e+09	yes	datablations/lm1-misc	1b11b5100m	2891	2.19
+1b11b51b5	1.096e+09	yes	datablations/lm1-misc	1b11b51b5	2891	2.19
+1b11b5400m	1.096e+09	yes	datablations/lm1-misc	1b11b5400m	2891	2.19
+1b12b7100m	1.096e+09	yes	datablations/lm1-misc	1b12b7100m	5111	2.19
+1b13b9100m	1.096e+09	yes	datablations/lm1-misc	1b13b9100m	7508	2.19
+1b15b9100m	1.096e+09	yes	datablations/lm1-misc	1b15b9100m	11269	2.19
+1b191b12b	1.096e+09	yes	datablations/lm1-misc	1b191b12b	173500	2.19
+1b191b1b5	1.096e+09	yes	datablations/lm1-misc	1b191b1b5	173500	2.19
+1b191b91b	1.096e+09	yes	datablations/lm1-misc	1b191b91b	173500	2.19
+1b566b12b	1.517e+09	yes	datablations/lm1-misc	1b566b12b	125429	3.03
+1b566b1b5	1.517e+09	yes	datablations/lm1-misc	1b566b1b5	125429	3.03
+1b566b66b	1.517e+09	yes	datablations/lm1-misc	1b566b66b	125429	3.03
+1b58b81b5	1.517e+09	yes	datablations/lm1-misc	1b58b81b5	16765	3.03
+1b58b8400m	1.517e+09	yes	datablations/lm1-misc	1b58b8400m	16765	3.03
+1b58b84b8	1.517e+09	yes	datablations/lm1-misc	1b58b84b8	16765	3.03
+1b58b88b8	1.517e+09	yes	datablations/lm1-misc	1b58b88b8	16765	3.03
+1b591b1b5	1.517e+09	yes	datablations/lm1-misc	1b591b1b5	173500	3.03
+20m400m400m	1.97e+07	yes	datablations/lm1-misc	21m400m400m	762	0.04
+220m1b5100m	2.205e+08	yes	datablations/lm1-misc	220m1b5100m	2891	0.44
+220m2b7100m	2.205e+08	yes	datablations/lm1-misc	220m2b7100m	5111	0.44
+220m3b9100m	2.205e+08	yes	datablations/lm1-misc	220m3b9100m	7508	0.44
+220m5b9100m	2.205e+08	yes	datablations/lm1-misc	220m5b9100m	11269	0.44
+220m7b51b5	2.205e+08	yes	datablations/lm1-misc	220m7b51b5	14324	0.44
+220m7b5400m	2.205e+08	yes	datablations/lm1-misc	220m7b5400m	14324	0.44
+220m7b57b5	2.205e+08	yes	datablations/lm1-misc	220m7b57b5	14324	0.44
+221m3b9400m	2.205e+08	yes	datablations/lm1-misc	221m3b9400m	7508	0.44
+221m60b1b5	2.205e+08	yes	datablations/lm1-misc	221m60b1b5	115203	0.44
+221m60b4b8	2.205e+08	yes	datablations/lm1-misc	221m60b4b8	115203	0.44
+221m60b60b	2.205e+08	yes	datablations/lm1-misc	221m60b60b	115203	0.44
+25m200m100m	3.55e+07	yes	datablations/lm1-misc	25m200m100m	381	0.07
+25m400m100m	3.55e+07	yes	datablations/lm1-misc	25m400m100m	762	0.07
+25m400m400m	3.55e+07	yes	datablations/lm1-misc	25m400m400m	762	0.07
+25m800m100m	3.55e+07	yes	datablations/lm1-misc	25m800m100m	1525	0.07
+280m1b5100m	2.81e+08	yes	datablations/lm1-misc	280m1b5100m	2891	0.56
+280m2b7100m	2.81e+08	yes	datablations/lm1-misc	280m2b7100m	5111	0.56
+280m3b9100m	2.81e+08	yes	datablations/lm1-misc	280m3b9100m	7508	0.56
+280m5b9100m	2.81e+08	yes	datablations/lm1-misc	280m5b9100m	11269	0.56
+280m5b91b5	2.81e+08	yes	datablations/lm1-misc	280m5b91b5	11269	0.56
+280m5b9400m	2.81e+08	yes	datablations/lm1-misc	280m5b9400m	11269	0.56
+280m5b95b9	2.81e+08	yes	datablations/lm1-misc	280m5b95b9	11269	0.56
+2b246b12b	2.16e+09	yes	datablations/lm1-misc	2b246b12b	44073	4.32
+2b246b1b5	2.16e+09	yes	datablations/lm1-misc	2b246b1b5	44073	4.32
+2b246b46b	2.16e+09	yes	datablations/lm1-misc	2b246b46b	44073	4.32
+2b291b1b5	2.16e+09	yes	datablations/lm1-misc	2b291b1b5	86750	4.32
+2b8100m100m	2.81e+09	yes	datablations/lm1-misc	2b8100m100m	95	5.62
+2b812b4b	2.81e+09	yes	datablations/lm1-misc	2b812b4b	11444	5.62
+2b816b4b	2.81e+09	yes	datablations/lm1-misc	2b816b4b	15258	5.62
+2b824b4b	2.81e+09	yes	datablations/lm1-misc	2b824b4b	22888	5.62
+2b832b4b	2.81e+09	yes	datablations/lm1-misc	2b832b4b	30517	5.62
+2b836b12b	2.81e+09	yes	datablations/lm1-misc	2b836b12b	33899	5.62
+2b836b1b5	2.81e+09	yes	datablations/lm1-misc	2b836b1b5	33899	5.62
+2b836b36b	2.81e+09	yes	datablations/lm1-misc	2b836b36b	33899	5.62
+2b840b4b	2.81e+09	yes	datablations/lm1-misc	2b840b4b	38146	5.62
+2b84b4b	2.81e+09	yes	datablations/lm1-misc	2b84b4b	3814	5.62
+2b84b8100m	2.81e+09	no:no_checkpoint				
+2b84b81b5	2.81e+09	yes	datablations/lm1-misc	2b84b81b5	4529	5.62
+2b84b8400m	2.81e+09	yes	datablations/lm1-misc	2b84b8400m	4529	5.62
+2b84b84b8	2.81e+09	no:no_checkpoint				
+2b855b11b	2.81e+09	yes	datablations/lm1-2b8-55b-c4-repetitions	2b855b11bc4	52452	5.62
+2b855b14b	2.81e+09	yes	datablations/lm1-2b8-55b-c4-repetitions	2b855b14bc4	52452	5.62
+2b855b18b	2.81e+09	yes	datablations/lm1-2b8-55b-c4-repetitions	2b855b18bc4	52452	5.62
+2b855b1b25	2.81e+09	yes	datablations/lm1-2b8-55b-c4-repetitions	2b855b1b25c4	52452	5.62
+2b855b28b	2.81e+09	yes	datablations/lm1-2b8-55b-c4-repetitions	2b855b28bc4	52452	5.62
+2b855b4b	2.81e+09	yes	datablations/lm1-2b8-55b-c4-repetitions	2b855b4bc4	52452	5.62
+2b855b55b	2.81e+09	yes	datablations/lm1-2b8-55b-c4-repetitions	2b855b55bc4	52452	5.62
+2b855b9b	2.81e+09	yes	datablations/lm1-2b8-55b-c4-repetitions	2b855b9bc4	52452	5.62
+2b877b1b5	2.81e+09	yes	datablations/lm1-misc	2b877b1b5	73623	5.62
+2b88b4b	2.81e+09	yes	datablations/lm1-misc	2b88b4b	7629	5.62
+3b926b12b	3.9e+09	no:N>2.8B				
+3b926b1b5	3.9e+09	no:N>2.8B				
+3b926b26b	3.9e+09	no:N>2.8B				
+421m1b5100m	4.212e+08	yes	datablations/lm1-misc	421m1b5100m	2891	0.84
+421m2b7100m	4.212e+08	yes	datablations/lm1-misc	421m2b7100m	5111	0.84
+421m32b1b5	4.212e+08	yes	datablations/lm1-misc	421m32b1b5	60336	0.84
+421m32b32b	4.212e+08	yes	datablations/lm1-misc	421m32b32b	60336	0.84
+421m32b4b8	4.212e+08	yes	datablations/lm1-misc	421m32b4b8	60336	0.84
+421m3b9100m	4.212e+08	yes	datablations/lm1-misc	421m3b9100m	7508	0.84
+421m3b91b5	4.212e+08	yes	datablations/lm1-misc	421m3b91b5	7508	0.84
+421m3b93b9	4.212e+08	yes	datablations/lm1-misc	421m3b93b9	7508	0.84
+421m3b9400m	4.212e+08	yes	datablations/lm1-misc	421m3b9400m	7508	0.84
+421m5b9100m	4.212e+08	yes	datablations/lm1-misc	421m5b9100m	11269	0.84
+421m91b1b5	4.212e+08	yes	datablations/lm1-misc	421m91b1b5	173500	0.84
+44m1b5100m	4.4e+07	no:no_checkpoint				
+44m200m100m	4.4e+07	yes	datablations/lm1-misc	44m200m100m	381	0.1
+44m2b7100m	4.4e+07	yes	datablations/lm1-misc	44m2b7100m	5111	0.1
+44m3b9100m	4.4e+07	yes	datablations/lm1-misc	44m3b9100m	7508	0.1
+44m400m100m	4.4e+07	yes	datablations/lm1-misc	44m400m100m	762	0.1
+44m5b9100m	4.4e+07	yes	datablations/lm1-misc	44m5b9100m	11269	0.1
+4b212b12b	4.246e+09	no:N>2.8B				
+4b224b12b	4.246e+09	no:N>2.8B				
+4b236b12b	4.246e+09	no:N>2.8B				
+4b248b12b	4.246e+09	no:N>2.8B				
+4b260b12b	4.246e+09	no:N>2.8B				
+4b272b12b	4.246e+09	no:N>2.8B				
+4b284b12b	4.246e+09	no:N>2.8B				
+4b284b17b	4.246e+09	no:N>2.8B				
+4b284b1b9	4.246e+09	no:N>2.8B				
+4b284b21b	4.246e+09	no:N>2.8B				
+4b284b28b	4.246e+09	no:N>2.8B				
+4b284b42b	4.246e+09	no:N>2.8B				
+4b284b6b	4.246e+09	no:N>2.8B				
+4b284b84b	4.246e+09	no:N>2.8B				
+574m174b12b	5.737e+08	yes	datablations/lm1-misc	574m174b12b	331103	1.15
+574m174b174b	5.737e+08	yes	datablations/lm1-misc	574m174b174b	331103	1.15
+619m1b5100m	6.187e+08	yes	datablations/lm1-misc	619m1b5100m	2891	1.24
+619m22b1b5	6.187e+08	yes	datablations/lm1-misc	619m22b1b5	41007	1.24
+619m22b22b	6.187e+08	yes	datablations/lm1-misc	619m22b22b	41007	1.24
+619m22b400m	6.187e+08	yes	datablations/lm1-misc	619m22b400m	41007	1.24
+619m22b4b8	6.187e+08	yes	datablations/lm1-misc	619m22b4b8	41007	1.24
+619m2b7100m	6.187e+08	yes	datablations/lm1-misc	619m2b7100m	5111	1.24
+619m2b71b5	6.187e+08	yes	datablations/lm1-misc	619m2b71b5	5111	1.24
+619m2b72b7	6.187e+08	yes	datablations/lm1-misc	619m2b72b7	5111	1.24
+619m2b7400m	6.187e+08	yes	datablations/lm1-misc	619m2b7400m	5111	7.43
+619m3b9100m	6.187e+08	yes	datablations/lm1-misc	619m3b9100m	7508	1.24
+619m5b9100m	6.187e+08	yes	datablations/lm1-misc	619m5b9100m	11269	1.24
+7m100m100m	7.099e+06	yes	datablations/lm1-misc	7m100m100m	190	0.03
+7m200m100m	7.099e+06	yes	datablations/lm1-misc	7m200m100m	381	0.01
+83m1b5100m	8.27e+07	yes	datablations/lm1-misc	83m1b5100m	2891	0.17
+83m1b51b5	8.27e+07	yes	datablations/lm1-misc	83m1b51b5	2891	0.17
+83m20b1b5	8.27e+07	yes	datablations/lm1-misc	83m20b1b5	37905	0.17
+83m20b20b	8.27e+07	yes	datablations/lm1-misc	83m20b20b	37905	0.17
+83m20b400m	8.27e+07	yes	datablations/lm1-misc	83m20b400m	37905	0.17
+83m2b7100m	8.27e+07	yes	datablations/lm1-misc	83m2b7100m	5111	0.17
+83m3b9100m	8.27e+07	yes	datablations/lm1-misc	83m3b9100m	7508	0.17
+83m400m100m	8.27e+07	yes	datablations/lm1-misc	83m400m100m	762	0.17
+83m5b9100m	8.27e+07	yes	datablations/lm1-misc	83m5b9100m	11269	0.17
+8b712b12b	8.67e+09	no:N>2.8B				
+8b712b1b5	8.67e+09	no:N>2.8B				
+8b712b400m	8.67e+09	no:N>2.8B				
+8b7178b13b	8.67e+09	no:N>2.8B				
+8b7178b178b	8.67e+09	no:N>2.8B				
+8b7178b25b	8.67e+09	no:N>2.8B				
+8b7178b35b	8.67e+09	no:N>2.8B				
+8b7178b44b	8.67e+09	no:N>2.8B				
+8b7178b58b	8.67e+09	no:N>2.8B				
+8b7178b88b	8.67e+09	no:N>2.8B				
+8b720b1b5	8.67e+09	no:N>2.8B				

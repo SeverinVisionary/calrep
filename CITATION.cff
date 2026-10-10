@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "CALREP: temperature scaling and the overfitting penalty in data-constrained pretraining (code and results)"
+authors:
+  - family-names: Yang
+    given-names: Hanyu
+    affiliation: "Independent researcher"
+license:
+  - CC-BY-4.0
+  - MIT
+repository-code: "https://github.com/SeverinVisionary/calrep"
+date-released: "2026-10-10"

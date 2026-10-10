@@ -1,0 +1,11 @@
+25m200m100m: d_model=448 attention inner=224
+  heads= 28 kv=  8  raw NLL=6.4487
+  heads= 16 kv= 14  raw NLL=6.4876
+  heads= 14 kv= 16  raw NLL=6.4670
+  heads=  8 kv= 28  raw NLL=6.4593
+  heads=  7 kv= 32  raw NLL=6.3237
+  heads=  4 kv= 56  raw NLL=6.4343
+  heads=  2 kv=112  raw NLL=6.4560
+  heads=  1 kv=224  raw NLL=6.4295
+
+[exited with code 0]
