@@ -5,6 +5,8 @@ authors:
   - family-names: Yang
     given-names: Hanyu
     affiliation: "Independent researcher"
+version: "1.0.0"
+doi: "10.5281/zenodo.23283822"
 license:
   - CC-BY-4.0
   - MIT
