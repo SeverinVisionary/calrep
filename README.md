@@ -2,8 +2,9 @@
 
 Hanyu Yang, independent researcher (`hanyu.yang.92@gmail.com`)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23283822.svg)](https://doi.org/10.5281/zenodo.23283822)
-Archived on Zenodo: [10.5281/zenodo.23283822](https://doi.org/10.5281/zenodo.23283822)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23291816.svg)](https://doi.org/10.5281/zenodo.23291816)
+Archived on Zenodo: [10.5281/zenodo.23291816](https://doi.org/10.5281/zenodo.23291816)
+Short paper: [`paper/calrep_note.pdf`](paper/calrep_note.pdf)
 
 > **Question.** When a language model is trained for many epochs on the same data, its validation loss eventually
 > rises. Lovelace et al. (arXiv:2605.01640) model this with an additive overfitting penalty P. How much of P disappears
@@ -234,4 +235,4 @@ author's. OpenAI Codex reviewed the code during development; each of its comment
 ## Citation
 
 Hanyu Yang (2026). *CALREP: temperature scaling and the overfitting penalty in data-constrained pretraining
-(code and results)*, version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.23283822. See also `CITATION.cff`.
+(code and results)*, version 1.1.0. Zenodo. https://doi.org/10.5281/zenodo.23291816. See also `CITATION.cff`.

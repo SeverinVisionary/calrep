@@ -5,10 +5,10 @@ authors:
   - family-names: Yang
     given-names: Hanyu
     affiliation: "Independent researcher"
-version: "1.0.0"
-doi: "10.5281/zenodo.23283822"
+version: "1.1.0"
+doi: "10.5281/zenodo.23291816"
 license:
   - CC-BY-4.0
   - MIT
 repository-code: "https://github.com/SeverinVisionary/calrep"
-date-released: "2026-10-10"
+date-released: "2026-10-11"
