@@ -3,8 +3,9 @@
 Hanyu Yang, independent researcher (`hanyu.yang.92@gmail.com`)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23291816.svg)](https://doi.org/10.5281/zenodo.23291816)
-Archived on Zenodo: [10.5281/zenodo.23291816](https://doi.org/10.5281/zenodo.23291816)
-Short paper: [`paper/calrep_note.pdf`](paper/calrep_note.pdf)
+Archived on Zenodo: version 1.1.0 [10.5281/zenodo.23291816](https://doi.org/10.5281/zenodo.23291816) (version 1.0.0: [10.5281/zenodo.23283822](https://doi.org/10.5281/zenodo.23283822)).
+
+Short paper: [`paper/calrep_note.pdf`](paper/calrep_note.pdf), *Overfitting or Overconfidence at the Data Wall?* (3 pages, written by the author).
 
 > **Question.** When a language model is trained for many epochs on the same data, its validation loss eventually
 > rises. Lovelace et al. (arXiv:2605.01640) model this with an additive overfitting penalty P. How much of P disappears
@@ -143,6 +144,7 @@ post-hoc rule D7.*
 
 | Path | Contents |
 |---|---|
+| `paper/` | Short paper: `calrep_note.tex` and `calrep_note.pdf` (uses figures 2, 3 and 5 from `figures/`) |
 | `figures/` | Figures 1–6, drawn by `code/make_figures.py` |
 | `results/final.json` | Per run: raw NLL, T_A, T_B, TS-NLL (built from `results/parts/` by `code/finalize.py`) |
 | `results/parts/` | Raw evaluator output, one file per checkpoint and sequence range |
@@ -236,3 +238,8 @@ author's. OpenAI Codex reviewed the code during development; each of its comment
 
 Hanyu Yang (2026). *CALREP: temperature scaling and the overfitting penalty in data-constrained pretraining
 (code and results)*, version 1.1.0. Zenodo. https://doi.org/10.5281/zenodo.23291816. See also `CITATION.cff`.
+
+## Changes
+
+- 1.1.0: adds the short paper in `paper/` (LaTeX source and PDF). Code and results unchanged.
+- 1.0.0: first release.
