@@ -2,8 +2,8 @@
 
 Hanyu Yang, independent researcher (`hanyu.yang.92@gmail.com`)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23291816.svg)](https://doi.org/10.5281/zenodo.23291816)
-Archived on Zenodo: version 1.1.0 [10.5281/zenodo.23291816](https://doi.org/10.5281/zenodo.23291816) (version 1.0.0: [10.5281/zenodo.23283822](https://doi.org/10.5281/zenodo.23283822)).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24301675.svg)](https://doi.org/10.5281/zenodo.24301675)
+Archived on Zenodo: version 1.1.1 [10.5281/zenodo.24301675](https://doi.org/10.5281/zenodo.24301675) (version 1.1.0: [10.5281/zenodo.23291816](https://doi.org/10.5281/zenodo.23291816); version 1.0.0: [10.5281/zenodo.23283822](https://doi.org/10.5281/zenodo.23283822)).
 
 Short paper: [`paper/calrep_note.pdf`](paper/calrep_note.pdf), *Overfitting or Overconfidence at the Data Wall?* (5 pages; text by the author, figures and tables from this archive).
 
@@ -237,9 +237,11 @@ author's. OpenAI Codex reviewed the code during development; each of its comment
 ## Citation
 
 Hanyu Yang (2026). *CALREP: temperature scaling and the overfitting penalty in data-constrained pretraining
-(code and results)*, version 1.1.0. Zenodo. https://doi.org/10.5281/zenodo.23291816. See also `CITATION.cff`.
+(code and results)*, version 1.1.1. Zenodo. https://doi.org/10.5281/zenodo.24301675. See also `CITATION.cff`.
 
 ## Changes
 
+- 1.1.1: the short paper's two reference entries now give full authors and title, expanded from the arXiv
+  records with Claude Code. Code and results unchanged.
 - 1.1.0: adds the short paper in `paper/` (LaTeX source and PDF). Code and results unchanged.
 - 1.0.0: first release.
